@@ -1,1 +1,11 @@
-hello
+price - area (Jose)
+bedroom + guestroom - bathroom (harash)
+area - stories (adam)
+good vs bad util (subre)
+pricing added to value (kamal)
+basment vs hotwater
+
+Idea ranking which of the columns effect the pricing of the house
+Also is their there a way to calculate by how much
+could use the correlation function from numpy
+create a linear Rigression
